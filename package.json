@@ -1,10 +1,11 @@
 {
   "name" : "sreeix-cradle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "the high-level, caching, CouchDB library",
   "url": "http://cloudhead.io/cradle",
   "keywords": ["couchdb", "database", "couch"],
   "author": "Alexis Sellier <self@cloudhead.net>",
+  "repository": {"type": "git", "url" : "git://github.com/sreeix/cradle.git"},
   "contributors": [
     { "name": "Charlie Robbins", "email": "charlie@nodejitsu.com" },
     { "name": "Maciej Malecki", "email": "maciej@nodejitsu.com" }
